@@ -1,3 +1,8 @@
+---
+title: "Image Builder"
+date: 2021-04-27T14:20:11+12:00
+draft: false
+---
 ## Image Builder Notes
 ![alt text](https://docs.microsoft.com/en-nz/azure/virtual-machines/media/image-builder-overview/image-builder-flow.png "High level overview")
 
